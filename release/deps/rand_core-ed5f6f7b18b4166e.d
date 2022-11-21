@@ -1,0 +1,11 @@
+C:\Users\Chris Eberle\Desktop\rPrograms\gambling_sim\target\release\deps\rand_core-ed5f6f7b18b4166e.rmeta: C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\Chris Eberle\Desktop\rPrograms\gambling_sim\target\release\deps\librand_core-ed5f6f7b18b4166e.rlib: C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\Chris Eberle\Desktop\rPrograms\gambling_sim\target\release\deps\rand_core-ed5f6f7b18b4166e.d: C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs:
+C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs:
+C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs:
+C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs:
+C:\Users\Chris\ Eberle\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs:
